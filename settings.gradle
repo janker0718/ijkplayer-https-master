@@ -1,4 +1,4 @@
-include ':ijkplayer-java'
+include ':ijkplayer-java', ':miniplayer'
 include ':ijkplayer-exo'
 
 include ':ijkplayer-example'
